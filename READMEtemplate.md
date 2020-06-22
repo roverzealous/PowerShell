@@ -28,6 +28,7 @@
 * [About the Project](#about-the-project)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
+* [Scripts and Modules](#Scripts and Modules)
 * [Contact](#contact)
 
 
@@ -54,6 +55,20 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+<!-- Scripts and Modules -->
+## Scripts and Modules
+
+[**Client**](https://github.com/roverzealous/Public-PowerShell/tree/master/Client)
+
+[**Start-Sync Module**](https://github.com/roverzealous/Public-PowerShell/blob/master/Client/Start-Sync.psm1)
+
+*This module will copy what ever folders you set. We use this to edit our PowerShell Profiles and then sync them across all                 profile locations.*
+
+    Function Start-Sync {
+        robocopy C:\FolderToCopyFrom\ C:\FolderToCopyTo\ /E /MIR
+    }
+
 
 
 <!-- CONTACT -->
