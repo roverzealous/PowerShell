@@ -62,11 +62,13 @@ Scripts pertaining to client machines.
 
 1. [**Start-Sync Module**](https://github.com/roverzealous/Public-PowerShell/blob/master/Client/Start-Sync.psm1)
 
-  *This module will copy what ever folders you set. We use this to edit our PowerShell Profiles and then sync them across all                 profile locations. Set the folder you want to copy from and copy to. Once you import this Module, you just need to type Start-Sync       begin the process. We add this Module to our PowerShell Profile so it is always loaded.*
+  *We use this Module when we edit our PowerShell Profiles and then sync them across all profile locations. Set the folder you want to copy from and copy to. You have have as many or as few as you need. Once you import this Module, you just need to type Start-Sync to begin the process. We add this Module to our PowerShell Profile so it is always loaded.*
 
 ```powershell
 
     Function Start-Sync {
+        robocopy C:\FolderToCopyFrom\ C:\FolderToCopyTo\ /E /MIR
+        robocopy C:\FolderToCopyFrom\ C:\FolderToCopyTo\ /E /MIR
         robocopy C:\FolderToCopyFrom\ C:\FolderToCopyTo\ /E /MIR
     }
 
