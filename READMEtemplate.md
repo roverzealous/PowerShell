@@ -150,20 +150,12 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ryan Johnson - [@roverzealous](https://twitter.com/roverzealous)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/roverzealous/PowerShell](https://github.com/roverzealous/PowerShell)
 
 
 
