@@ -27,10 +27,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   <h3 align="center">Best-README-Template</h3>
+   <h3 align="center">PowerShell Scripts and Modules</h3>
 
   <p align="center">
-    PowerShell Scripts and Modules
+    
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentation»</strong></a>
     <br />
