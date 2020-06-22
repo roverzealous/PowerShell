@@ -18,11 +18,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ![GitHub contributors](https://img.shields.io/github/contributors/roverzealous/PowerShell)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+![GitHub forks](https://img.shields.io/github/forks/roverzealous/PowerShell)
+![GitHub stars](https://img.shields.io/github/stars/roverzealous/PowerShell)
 ![GitHub issues](https://img.shields.io/github/issues/roverzealous/PowerShell)
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
