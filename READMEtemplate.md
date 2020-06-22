@@ -28,7 +28,7 @@
 * [About the Project](#about-the-project)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [Code](#code)
+* [Client](#client)
 * [Contact](#contact)
 
 
@@ -56,10 +56,8 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- CODE -->
-## Code
-
-[**Client**](https://github.com/roverzealous/Public-PowerShell/tree/master/Client)
+<!-- CLIENT -->
+## Client
 
 [**Start-Sync Module**](https://github.com/roverzealous/Public-PowerShell/blob/master/Client/Start-Sync.psm1)
 
