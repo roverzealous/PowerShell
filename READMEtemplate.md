@@ -57,7 +57,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 <!-- CODE -->
-## Scripts and Modules
+## Code
 
 [**Client**](https://github.com/roverzealous/Public-PowerShell/tree/master/Client)
 
