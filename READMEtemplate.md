@@ -60,9 +60,9 @@ Contributions are what make the open source community such an amazing place to b
 ## Client
 Scripts pertaining to client machines.
 
-   [**Start-Sync Module**](https://github.com/roverzealous/Public-PowerShell/blob/master/Client/Start-Sync.psm1)
+   -[**Start-Sync Module**](https://github.com/roverzealous/Public-PowerShell/blob/master/Client/Start-Sync.psm1)
 
-   *This module will copy what ever folders you set. We use this to edit our PowerShell Profiles and then sync them across all                 profile locations.*
+   -*This module will copy what ever folders you set. We use this to edit our PowerShell Profiles and then sync them across all                 profile locations.*
 
 ```powershell
 
