@@ -22,29 +22,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/roverzealous/PowerShell)
 ![GitHub issues](https://img.shields.io/github/issues/roverzealous/PowerShell)
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-   <h3 align="center">PowerShell Scripts and Modules</h3>
-
-  <p align="center">
-    
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentation»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
